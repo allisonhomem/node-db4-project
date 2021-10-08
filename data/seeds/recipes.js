@@ -1,11 +1,11 @@
 const recipes = [
     {
         recipe_name: "Country Sourdough",
-        created_at: Date.now()
+        created_at: "January 10, 2020"
     },
     {
         recipe_name: "Potato Gnocchi in Pesto",
-        create_at: Date.now()
+        created_at: "July 23, 2021"
     }
 ]
 
